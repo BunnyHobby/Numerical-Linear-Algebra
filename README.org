@@ -6,9 +6,11 @@
 ** Copy the *Eigen* /subdirectory/ into your *quiz2* /directory/
 * Solving a Linear System 
 
-       $$1.2x + 3.4y + 5.6z = 36.4$$
-       $$7.8x + 9.0y + 1.2z = 87.6$$
-       $$3.4x + 5.6y + 7.8z = 62.8$$
+       1.2x + 3.4y + 5.6z = 36.4
+
+       7.8x + 9.0y + 1.2z = 87.6
+
+       3.4x + 5.6y + 7.8z = 62.8
 
        We wonder the values of /x/, /y/, and /z/.
 
