@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-#include "Eigen/Dense"
+#include <Eigen/Dense>
 using namespace Eigen;
 
 int main()
