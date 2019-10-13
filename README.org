@@ -1,9 +1,5 @@
 * Eigen Setup Instructions
-- Create an empty *quiz2* /directory/
-- Go to the Eigen [[http://eigen.tuxfamily.org/index.php?title=Main_Page#Download][download page]]
-- Download the source code (/.tar.gz/)
-- Extract the file anywhere
-- Copy the *Eigen* /subdirectory/ into your *quiz2* /directory/
+=sudo apt install libeigen3-dev=
 * Solving a Linear System 
 
        1.2x + 3.4y + 5.6z = 36.4
